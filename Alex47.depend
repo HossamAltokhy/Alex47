@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730200646 source:c:\users\hossa\documents\amit_c_folder\alex47\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728827954 c:\users\hossa\documents\amit_c_folder\alex47\grade.h
+
+1728990744 source:c:\users\hossa\documents\amit_c_folder\alex47\grade.c
+
+1728827954 c:\users\hossa\documents\amit_c_folder\alex47\grade\grade.h
+
