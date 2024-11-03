@@ -35,7 +35,7 @@ int main ()
     addPerson(8);
     addPerson(9);
     addPerson(11);
-    insertPerson(20, 6);
+    insertPerson(20, 7);
     printList();
 
     printf("Count = %d", getListCount());
