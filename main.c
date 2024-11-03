@@ -34,7 +34,7 @@ int main ()
     addPerson(7);
     addPerson(8);
     addPerson(9);
-    addPerson(10);
+    addPerson(11);
     insertPerson(20, 6);
     printList();
 
