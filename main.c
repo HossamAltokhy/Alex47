@@ -35,10 +35,12 @@ int main ()
     addPerson(8);
     addPerson(9);
     addPerson(10);
-    insertPerson(20, 7);
+
+    printf("Count before insertion = %d\n", getListCount());
+    insertPerson(11, 11);
     printList();
 
-    printf("Count = %d", getListCount());
+    printf("Count after insertion = %d\n", getListCount());
 
     return 0;
 }
